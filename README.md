@@ -8,19 +8,24 @@ Salve o texto na pasta “Arquivo --> Salvar como --> Documentos” com o nome �
 
 Abra o Terminal e execute o seguinte comando (com senha “rnpesr”) para ser super usuário:
 
+
 Copy
 ┌──(kali㉿kali)-[~]
 └─$ sudo -i
 [sudo] senha para aluno:
 Volte ao Terminal e navegue até a pasta “Documentos” e veja que o arquivo “Texto.txt” está presente com o seguinte comando:
 
+
 Copy
 ┌──(root㉿kali)-[~]
-└─# cd /home/aluno/Documentos/
+└─# cd /home/kali/Documentos
+
                                                                              
 ┌──(root㉿kali)-[/home/kali/Documentos]
 └─# ls
+
 Texto.txt
+
 Copie o arquivo “Texto.txt” no arquivo “Texto_copia.txt” na mesma pasta e veja que realmente foi copiado:
 
 Copy
