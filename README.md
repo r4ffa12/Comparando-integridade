@@ -46,7 +46,7 @@ Copy
 
 Texto_copia.txt  Texto.txt
 
-Verifique se há diferença entre os arquivos:
+## Verifique se há diferença entre os arquivos:
 
 
 Copy
